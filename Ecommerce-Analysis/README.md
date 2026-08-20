@@ -141,7 +141,7 @@ Based on the findings:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/deethyakj24ds-sketch/Ecommerce-Analysis.git
+git clone https://github.com/maanyar-14/E_Commerce_Project.git
 ```
 
 ### 2. Install the required libraries
@@ -177,7 +177,7 @@ The project follows the required tasks of the **Data Analysis with Python – E-
 
 ## 👩‍💻 Author
 
-**Deethya K J**
+**Maanya R**
 
-GitHub: [@deethyakj24ds-sketch](https://github.com/deethyakj24ds-sketch)
+
 
